@@ -36402,7 +36402,7 @@ if(((p>=208?k.d=A.adq(r,s,q,p):p)&1)===0)return k.c
 return-1}}
 A.Fr.prototype={
 J(a){var s=null
-return new A.vD(new A.vw(s),"Flutter Demo",A.ajt(s,"OpenSans",B.a3,s),!1,s)}}
+return new A.vD(new A.vw(s),"DMP MACHINERY DESIGN COMPANY LIMITED",A.ajt(s,"OpenSans",B.a3,s),!1,s)}}
 A.acV.prototype={
 $1(a){var s=J.aI(a)
 return new A.ov(s.h(a,"name"),s.h(a,"image"))},
